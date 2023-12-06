@@ -1,4 +1,4 @@
-# konstls-main-site
+# konstls-website
 
 Have fun browsing the source code of my website!
 
